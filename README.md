@@ -1,15 +1,8 @@
 # Redesa_Newsletter
 Newsletter Emailer
-# README #
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
+* This is a Newsletter I worked on as practice during my internship with Hero Digital.
 ### How do I get set up? ###
 
 * Summary of set up
