@@ -2,7 +2,7 @@
 Newsletter Emailer
 ### What is this repository for? ###
 
-* This is a Newsletter I worked on as practice during my internship with Hero Digital.
+* This is a Newsletter for Redisa that I built during my internship with Hero Digital.
 ### How do I get set up? ###
 
 * Clone or download the repository to your local computer and one can view this emailer with whatever Email Client they have. 
