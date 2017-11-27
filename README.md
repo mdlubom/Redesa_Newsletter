@@ -5,8 +5,7 @@ Newsletter Emailer
 * This is a Newsletter for Redisa that I built during my internship with Hero Digital.
 ### How do I get set up? ###
 
-* Clone or download the repository to your local computer and one can view this emailer with whatever Email Client they have. 
+* Clone or download the repository to your local computer and one can view this emailer with whatever Email Client you have. 
 ### Who do I talk to? ###
 
 * Repo owner is me and my email address is mdlubom@gmail.com
-* If one is interested in taking part in justPlay competetions they can visit http://www.justplay.co.za
